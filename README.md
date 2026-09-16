@@ -154,7 +154,6 @@ Konstruktor sub-class memanggil konstruktor milik super-class untuk menginisiali
 public GitarElektrik(String idGitar, String merk, String model, String jenisKayuBody, 
                      double hargaBeli, double tarifSewaPerHari, 
                      String tipePickup, String bridgeType, boolean hasCoilSplit) {
-    // Memanggil konstruktor super-class Gitar
     super(idGitar, merk, model, jenisKayuBody, hargaBeli, tarifSewaPerHari);
     this.tipePickup = tipePickup;
     this.bridgeType = bridgeType;
