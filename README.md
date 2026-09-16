@@ -193,91 +193,15 @@ public void displaySpesifikasi() {
 
 ## 🖥️ Tangkapan Layar (Screenshot Running Program)
 
-> *SS*
 
 ### 1. Menu Utama & Katalog Instrumen
-```text
-=================================================================
-       🎸  VINTAGE & CUSTOM SHOP GUITAR STORE SYSTEM  🎸        
-               Aplikasi Manajemen Rental & Penjualan             
-         Tugas Praktikum Pemrograman Berorientasi Objek         
-=================================================================
+<img width="863" height="503" alt="image" src="https://github.com/user-attachments/assets/8008c828-b167-4169-b14f-d92331a93959" />
 
-=======================================================
-            MENU UTAMA TOKO GITAR CUSTOM SHOP          
-=======================================================
- [1] Lihat Katalog Koleksi Gitar (Stok & Harga)
- [2] Cek Spesifikasi Detail Instrumen (Spek Luthier)
- [3] Transaksi Pembelian Unit Gitar
- [4] Transaksi Penyewaan / Rental Gitar
- [5] Pengembalian Gitar Rental & Cek Denda
- [6] Lihat Seluruh Riwayat Transaksi
- [7] Keluar Program
- Masukkan pilihan menu (1-7): 1
-
-=========================================================================================
-                     KATALOG KOLEKSI GITAR CUSTOM SHOP PREMIER                           
-=========================================================================================
-ID      | MERK         | SERI / MODEL                     | HARGA BELI       | SEWA/HARI      | STATUS    
------------------------------------------------------------------------------------------
-EL-01   | Fender       | Custom Shop '60s Stratocaster... | Rp    38.500.000 | Rp    250.000  | [TERSEDIA]
-EL-02   | Gibson       | Les Paul Custom 1957 Black Be... | Rp    54.000.000 | Rp    320.000  | [TERSEDIA]
-AK-01   | Taylor       | 814ce Grand Auditorium Custom    | Rp    46.000.000 | Rp    280.000  | [TERSEDIA]
-AK-02   | Martin       | D-28 Modern Deluxe Custom Shop   | Rp    49.500.000 | Rp    300.000  | [TERSEDIA]
-BS-01   | Ernie Ball.. | StingRay Special 5-String Custom | Rp    36.000.000 | Rp    220.000  | [TERSEDIA]
-BS-02   | Fender       | Custom Shop '64 Jazz Bass Jou... | Rp    42.000.000 | Rp    260.000  | [TERSEDIA]
-=========================================================================================
-```
 
 ### 2. Transaksi Penyewaan (Rental Contract)
-```text
---- TRANSAKSI PENYEWAAN / RENTAL GITAR ---
- Masukkan Nama Penyewa : Farrel
- Masukkan ID Gitar yang ingin disewa: EL-01
- Masukkan Durasi Sewa (dalam hari): 3
+<img width="840" height="594" alt="image" src="https://github.com/user-attachments/assets/83c24533-761d-44eb-88dd-84333f48fb88" />
 
- >> Transaksi sewa BERHASIL diproses!
-=================================================================
-               BUKTI KONTRAK RENTAL GITAR CUSTOM                 
-=================================================================
- No. Kontrak Sewa : TRX-RNT-1001
- Tanggal Mulai    : 17-09-2026 06:30
- Nama Penyewa     : Farrel
------------------------------------------------------------------
- Unit Gitar       : [EL-01] Fender Custom Shop '60s Stratocaster Relic
- Tarif Sewa       : Rp        250.000 / hari
- Durasi Sewa      : 3 Hari
- Subtotal Sewa    : Rp        750.000
- Deposit Jaminan  : Rp        500.000 (Refundable)
------------------------------------------------------------------
- STATUS RENTAL    : AKTIF (GITAR SEDANG DIPINJAM)
-=================================================================
-```
 
 ### 3. Transaksi Pembelian Unit (Sales Invoice)
-```text
---- TRANSAKSI PEMBELIAN GITAR ---
- Masukkan Nama Pelanggan : Farrel
- Masukkan ID Gitar yang ingin dibeli: AK-01
- Masukkan Diskon Member (%) [Ketik 0 jika tidak ada]: 10
- Tambah Deluxe Flight Hardcase (+Rp 750.000)? (y/n): y
+<img width="1056" height="659" alt="image" src="https://github.com/user-attachments/assets/a1555255-06b1-4e2e-a9f4-c115e6583064" />
 
- >> Pembelian BERHASIL diproses!
-=================================================================
-              INVOICE PENJUALAN GITAR CUSTOM SHOP               
-=================================================================
- No. Invoice      : TRX-BUY-1002
- Tanggal Transaksi: 17-09-2026 06:35
- Nama Pelanggan   : Farrel
------------------------------------------------------------------
- Unit Gitar       : [AK-01] Taylor 814ce Grand Auditorium Custom
- Harga Pokok Unit : Rp     46.000.000
- Diskon Promo (10%): -Rp      4.600.000
- Deluxe Hardcase  : Rp        750.000 (Termasuk)
------------------------------------------------------------------
- TOTAL PEMBAYARAN : Rp     42.150.000
------------------------------------------------------------------
- Status Garansi   : Sertifikat Luthier Resmi (24 Bulan)
- Catatan          : Gratis 2x Setup & Ganti Senar Pertama.
-=================================================================
-```
