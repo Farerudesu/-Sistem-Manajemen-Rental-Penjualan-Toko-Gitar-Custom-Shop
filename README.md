@@ -7,7 +7,7 @@ Aplikasi ini dibangun menggunakan struktur standar **Maven Project** yang kompat
 
 ---
 
-## 👤 Identitas Mahasiswa
+##  Identitas Mahasiswa
 * **Nama** : Muhammad Fahriel
 * **NIM** : 2509116050
 * **Kelas / Program Studi** : B'2025 Sistem Informasi
@@ -15,7 +15,7 @@ Aplikasi ini dibangun menggunakan struktur standar **Maven Project** yang kompat
 
 ---
 
-## 📖 Penjelasan Studi Kasus
+##  Penjelasan Studi Kasus
 Studi kasus yang diangkat adalah **Sistem Manajemen Rental & Penjualan pada Toko Gitar Custom Shop**. Toko ini mengelola instrumen musik *high-end* (Gitar Elektrik, Gitar Akustik, dan Bass Elektrik) dengan dua model bisnis utama:
 
 1. **Layanan Penjualan Unit Gitar (Sales)**:
@@ -34,7 +34,7 @@ Studi kasus yang diangkat adalah **Sistem Manajemen Rental & Penjualan pada Toko
 
 ---
 
-## 🏗️ Diagram Kelas & Hierarki Class
+##  Diagram Kelas & Hierarki Class
 
 Program ini mengimplementasikan **dua rantai pewarisan (Inheritance)**:
 
@@ -131,7 +131,7 @@ classDiagram
 
 ---
 
-## 🔍 Penjelasan Bagian Kode Penerapan Inheritance
+##  Penjelasan Bagian Kode Penerapan Inheritance
 
 Penerapan konsep pewarisan (*Inheritance*) dalam kode program dapat ditunjukkan pada bagian-bagian berikut:
 
@@ -174,22 +174,7 @@ public void displaySpesifikasi() {
 }
 ```
 
----
 
-## 🚀 Cara Membuka & Menjalankan di Apache NetBeans
-
-1. Buka aplikasi **Apache NetBeans**.
-2. Klik menu **File** > **Open Project...** (atau tekan shortcut `Ctrl + Shift + O`).
-3. Buka folder:
-   ```text
-   CustomShopGuitar
-   ```
-   *(Yang berada di folder default NetBeans Anda: `Documents\NetBeansProjects\CustomShopGuitar`)*.
-4. Klik tombol **Open Project**.
-5. Jalankan aplikasi dengan menekan tombol **F6** atau tombol panah hijau (**Run Project**) di toolbar.
-6. Program CLI akan langsung berjalan di panel **Output** NetBeans.
-
----
 
 ## 🖥️ Tangkapan Layar (Screenshot Running Program)
 
