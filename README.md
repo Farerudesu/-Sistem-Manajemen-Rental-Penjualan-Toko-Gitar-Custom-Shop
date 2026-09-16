@@ -1,4 +1,4 @@
-# Tugas Individu: Pemrograman Berorientasi Objek (Java)
+#  Pemrograman Berorientasi Objek
 ## Sistem Manajemen Rental & Penjualan Toko Gitar Custom Shop (CLI)
 
 Program aplikasi berbasis konsol (*Command Line Interface* / CLI) menggunakan bahasa pemrograman Java dengan menerapkan prinsip-prinsip **Pemrograman Berorientasi Objek (PBO)**, khususnya **Inheritance (Pewarisan)**, **Polymorphism (Polimorfisme)**, **Encapsulation (Enkapsulasi)**, dan **Abstraction (Abstraksi)**.
