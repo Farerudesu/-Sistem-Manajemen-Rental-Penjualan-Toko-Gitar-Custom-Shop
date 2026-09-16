@@ -189,3 +189,4 @@ public void displaySpesifikasi() {
 ### 3. Transaksi Pembelian Unit (Sales Invoice)
 <img width="1056" height="659" alt="image" src="https://github.com/user-attachments/assets/a1555255-06b1-4e2e-a9f4-c115e6583064" />
 
+---
